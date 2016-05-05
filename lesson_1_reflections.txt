@@ -1,0 +1,2 @@
+pro of commit: organized and easily to re-call.
+Neg of commit: many versions and have to take a note
